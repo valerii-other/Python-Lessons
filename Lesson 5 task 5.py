@@ -12,8 +12,7 @@ class test_class (object):
 
 test = test_class("1st")
 test2 = test_class("2nd")
-#test = test_class("1st")
-#test2 = test_class("2nd")
+
 
 test.say_my_name()
 test2.say_my_name()
